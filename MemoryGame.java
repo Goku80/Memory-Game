@@ -27,7 +27,7 @@ public class MemoryGame extends JFrame
     // Konstruktor für das MemoryGame-Fenster
     public MemoryGame()
     {
-        super("Memory Game"); // Setzt den Titel des Fensters
+        super("Memory Game"); // Titel des Fensters
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Beendet das Programm beim Schließen des Fensters
 
